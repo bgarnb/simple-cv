@@ -3,21 +3,21 @@
 ############################
 #
 # Required value:
-name: Henry Walton Jones, Jr. # full name
+name: Varvara Garneli # full name
 #
 # Optional values:
 # These can be commented out or deleted.
-display-name: test! “Indiana” Jones, Jr. # name to be displayed.
+display-name: Varvara Garneli # name to be displayed.
 date-of-birth: xxxx-xx-xx # in YYYY-MM-DD format
 citizenships:
-- United States of America
-- Aramathea
+- Greece
+- Kerkyra
 address:
 - Kerkyra
-- Marshall College
-- Bedford, CT 0649x
-telephone: +1 860 555-5555
+-
+-
+telephone:
 email: c13@garn.gr
-url: archaeology.marshall-ct.edu/faculty/jones-henry/
-twitter: IndianaJones
+url:
+twitter:
 github: bgarnb
