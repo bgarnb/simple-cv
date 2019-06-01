@@ -1,0 +1,126 @@
+---
+############################
+## format.yml holds the main options for formatting.
+############################
+#
+#
+## General options. These are all required.
+title: "Henry Walton Jones, Jr. CV" # This is for the pdf metadata and <title> in html
+author: 
+- Moacir P. de Sá Pereira # This is the *author*, not the person, though it’s likely the same.
+- Henry Walton Jones, Jr.
+author-lastname-first: # Same as above, but for Dublin Core metadata
+- "Sá Pereira, Moacir P. de"
+- "Jones, Henry Walton"
+mode: markdown # or yaml. Yaml mode, however, is a future feature.
+contact-information: Contact Information # The text for the contact information header.
+markers: # The glyphs that begin lists
+  level-1: "•" # First level marker in a list.
+  level-2: "-" # Second level marker.
+  level-3: "*" # Third level.
+############################
+## html-options.yml holds the HTML options
+############################
+#
+#
+# headshot-url: "https://i.imgur.com/Iz8zuDY.jpg" # Experimental
+lang: en # document language.
+fontawesome: true # whether to include fontawesome glyphs on the webpage.
+#### For colors, please see: https://www.w3schools.com/colors/colors_picker.asp
+#### Hex values ("#nnnnnn") and rgb values ("rgb(n,n,n)") are allowed.
+##
+#### If you would like to adjust the opacity, use rgba(), where the fourth term is
+#### an opacity, so "rgba(255, 0, 0, 0.75)" is bright red at 75% opacity. 
+## 
+#### The colors provided as examples are a joke. I like Bootstrap’s defaults.
+# background-color: "#66ffff" # This must be in quotes.
+navbar: # comment out this entire section to disable the navbar
+  background: light # or dark, primary, secondary, success, danger, warning, or info
+  text: light # or dark. "light" is dark text for light bkgds & "dark" the inverse.
+  position: default # or fixed-top, fixed-bottom, or sticky-top
+  margin: 20 # pixels between navbar and content.
+  # background-color: "#ff99ff" # This must be in quotes and overrides "background" above.
+html-fonts: # comment out this entire section to use default fonts
+  body: # If you want just one custom font for everything, set only this one.
+    type: sans-serif
+    name: Raleway
+    url: https://fonts.googleapis.com/css?family=Raleway
+  headings:
+    type: serif # or sans-serif or monospace
+    name: Cormorant Garamond
+    url: https://fonts.googleapis.com/css?family=Cormorant+Garamond
+  navbar: 
+    type: serif
+    name: Cormorant Garamond
+    url: https://fonts.googleapis.com/css?family=Cormorant+Garamond
+  # colors:
+  #   body: "#cc0000" # This must be in quotes;
+  #   headings: "#00cc00" # This must be in quotes;
+  #   display: "#ffffff" # This must be in quotes;
+  #   navbar-items: "#00cccc" # This must be in quotes;
+  #   links:
+  #     regular: "#cccc00" # This must be in quotes;
+  #     hover: "#cc00cc" # This must be in quotes;
+html-smallcaps-headings: true # To make headings smallcaps
+html-bold-as-smallcaps: true # To make Markdown text typed **like this** become small caps.
+keywords:
+- Archæology
+- anti-fascism
+- colonial exploitation
+last-modified: true
+meta-title: Simple CV
+canonical-url: "https://muziejus.github.io/simple-cv/" # Change this to your url.
+date-created: 2018-04-18
+description: >- 
+  A Curriculum Vitæ created using the “simple-cv” package,
+  available at https://github.com/muziejus/simple-cv 
+og-image:
+  url: https://muziejus.github.io/simple-cv/assets/images/simple-cv.png
+  type: image/png
+  height: 384
+  width: 384
+############################
+## pdf-options.yml holds the PDF options
+############################
+#
+#
+filename: H-W-Jones # no '.pdf' needed.
+footer: # comment out this entire section to disable the footer
+  last-modified: true
+  display-author: true
+regular-font: Times New Roman # please see Fonts-README.md for more information
+headings: overlapped # section headings jut out to the left a bit. The other option, “margin,” moves the headings to the left on their own.
+pdf-smallcaps-headings: true # To make headings use the smallcaps font.
+pdf-bold-as-smallcaps: true # To make Markdown text typed **like this** become small caps.
+# papersize: a4 # “letter” is the default.
+typesize: 11pt # Default text size.
+left-margin: .5in
+# right-margin: .5in # Only needed for unequal margins
+top-margin: .5in # Minimum of about .25in or 2cm
+# bottom-margin: 2in # Only for unequal margins. Useful if footer is too low.
+display-style: line # The style for the top of the page. This can be any memoir chapter style as demonstrated in 10.5 of the Memoir manual: http://texdoc.net/texmf-dist/doc/latex/memoir/memman.pdf. Reasonable values include: bianchi, bringhurst, chappell, crosshead, demo2, dowding, lyhne, and wilsondob. Some of these styles will clobber your font choices. “line” is a style I created based on the res.cls line option.
+############################
+# personal.yml holds personal information
+############################
+#
+# Required value:
+name: Henry Walton Jones, Jr. # full name
+#
+# Optional values:
+# These can be commented out or deleted.
+display-name: test! “Indiana” Jones, Jr. # name to be displayed.
+date-of-birth: xxxx-xx-xx # in YYYY-MM-DD format
+citizenships:
+- United States of America
+- Aramathea
+address:
+- Kerkyra
+- Marshall College
+- Bedford, CT 0649x
+telephone: +1 860 555-5555
+email: c13@garn.gr
+url: archaeology.marshall-ct.edu/faculty/jones-henry/
+twitter: IndianaJones
+github: bgarnb
+date: 2019-05-07
+---
