@@ -5,12 +5,12 @@
 #
 #
 ## General options. These are all required.
-title: "Βιογραφικό Σημείωμα  της Βαρβάρας Γαρνέλη" # This is for the pdf metadata and <title> in html
+title: "Βιογραφικό Σημείωμα της Βαρβάρας Γαρνέλη" # This is for the pdf metadata and <title> in html
 author:
-- Βαρβάρα Γαρνέλη # This is the *author*, not the person, though it’s likely the same.
+- # This is the *author*, not the person, though it’s likely the same.
 - Βαρβάρα Γαρνέλη.
 author-lastname-first: # Same as above, but for Dublin Core metadata
-- "Βαρβάρα Γαρνέλη"
+- ""
 - "Βαρβάρα Γαρνέλη"
 mode: markdown # or yaml. Yaml mode, however, is a future feature.
 contact-information: Contact Information # The text for the contact information header.
@@ -105,23 +105,23 @@ display-style: line # The style for the top of the page. This can be any memoir 
 ############################
 #
 # Required value:
-name: Varvara Garneli # full name
+name: Βαρβάρα Γαρνέλη # full name
 #
 # Optional values:
 # These can be commented out or deleted.
-display-name: Varvara Garneli # name to be displayed.
-date-of-birth: xxxx-xx-xx # in YYYY-MM-DD format
+display-name: Βαρβάρα Γαρνέλη # name to be displayed.
+date-of-birth: 1967-11-16 # in YYYY-MM-DD format
 citizenships:
-- Greece
-- Kerkyra
+- Ελλάδα
+- Κέρκυρα
 address:
-- Kerkyra
+- Κέρκυρα
 -
 -
-telephone:
+telephone: 26630 81966
 email: c13@garn.gr
-url:
+url: https://bgarnb.github.io/simple-cv/
 twitter:
 github: bgarnb
-date: 2019-06-01
+date: 2019-11-13
 ---
