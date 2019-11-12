@@ -3,21 +3,21 @@
 ############################
 #
 # Required value:
-name: Varvara Garneli # full name
+name: Βαρβάρα Γαρνέλη # full name
 #
 # Optional values:
 # These can be commented out or deleted.
-display-name: Varvara Garneli # name to be displayed.
-date-of-birth: xxxx-xx-xx # in YYYY-MM-DD format
+display-name: Βαρβάρα Γαρνέλη # name to be displayed.
+date-of-birth: 1967-11-16 # in YYYY-MM-DD format
 citizenships:
-- Greece
-- Kerkyra
+- Ελλάδα
+- Κέρκυρα
 address:
-- Kerkyra
+- Κέρκυρα
 -
 -
-telephone:
+telephone: 26630 81966
 email: c13@garn.gr
-url:
+url: https://bgarnb.github.io/simple-cv/
 twitter:
 github: bgarnb

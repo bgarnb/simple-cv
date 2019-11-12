@@ -1,4 +1,1 @@
-## Skills
 
-* \LaTeX
-* Bullwhip

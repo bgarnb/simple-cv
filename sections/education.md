@@ -1,5 +1,7 @@
 ## Education
 
-* **Sorbonne**, PhD, 1925
-* **University of Chicago**, AB, 1922, Archæology
-  * Adviser: Abner Ravenwood
+* **Διδακτορικό PhD, Ιόνιο Πανεπιστήμιο, Τμήμα Πληροφορικής**, 2017
+  * Video-game making approach in science education: exploring computational thinking skills development and student motivation
+* **Μεταπτυχιακό Δίπλωμα στην Πληροφορική και τις Ανθρωπιστικές Σπουδές, Ιόνιο Πανεπιστήμιο, Τμήμα Πληροφορικής**, MSC, 2013
+* **Πτυχίο Παιδαγωγικών Σπουδών, ΣΕΛΕΤΕ, Τμήμα Πτυχιούχων ΑΕΙ**, 1993
+* **Πτυχίο Πληροφορικής, Οικονομικό Πανεπιστήμιο Αθήνας, Τμήμα Πληροφορικής**, BSC, 1992
