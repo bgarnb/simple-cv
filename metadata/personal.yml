@@ -9,15 +9,9 @@ name: Βαρβάρα Γαρνέλη # full name
 # These can be commented out or deleted.
 display-name: Βαρβάρα Γαρνέλη # name to be displayed.
 date-of-birth: 1967-11-16 # in YYYY-MM-DD format
-citizenships:
-- Ελλάδα
-- Κέρκυρα
 address:
 - Κέρκυρα
--
--
-telephone: 26630 81966
+τηλέφωνο: 6974025556
 email: c13@garn.gr
-url: https://bgarnb.github.io/simple-cv/
-twitter:
+url: https://scholar.google.gr/citations?user=P5t-LWkAAAAJ&hl=el
 github: bgarnb

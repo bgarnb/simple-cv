@@ -1,3 +1,3 @@
-## Languages
+## Ξένες Γλώσσες
 
 * English.

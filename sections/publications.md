@@ -1,12 +1,13 @@
-## Publications
-#Journals:
+## Δημοσιεύσεις
 
-* Garneli, V., Giannakos, M., & Chorianopoulos, K. (2017). "Serious games as a 
+*Σε Διεθνή Περιοδικά:*
+
+Garneli, V., Giannakos, M., & Chorianopoulos, K. (2017). "Serious games as a
 malleable learning medium: The effects of narrative, gameplay, and making on
 students’ performance and attitudes", _British Journal of Educational
 Technology_, 48(3), 842-859.
 
-* Garneli, V., & Chorianopoulos, K. (2018). "Programming video games and
+Garneli, V., & Chorianopoulos, K. (2018). "Programming video games and
 simulations in science education: exploring computational thinking through code
 analysis",  _Interactive Learning Environments_, 26(3), 386-401.
 
@@ -18,7 +19,7 @@ Garneli, V., Patiniotis, K., & Chorianopoulos, K. (2019). "Integrating Science
 Tasks and Puzzles in Computer Role Playing Games". _Multimodal Technologies and
 Interaction_, 3(3), 55.
 
-#Conferences and Workshops:
+*Σε Διεθνή Συνέδρια:*
 
 Garneli, B., Giannakos, M. N., Chorianopoulos, K., & Jaccheri, L. (2013,
 September). "Learning by playing and learning by making". In _International
