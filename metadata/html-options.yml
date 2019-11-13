@@ -44,7 +44,7 @@ html-fonts: # comment out this entire section to use default fonts
 html-smallcaps-headings: true # To make headings smallcaps
 html-bold-as-smallcaps: true # To make Markdown text typed **like this** become small caps.
 keywords:
-- Video Games
+- Serious Games
 - Education
 - Computer Programming
 - Computational Thinking

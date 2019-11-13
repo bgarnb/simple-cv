@@ -1,3 +1,3 @@
-## Εξειδικευση:
+## Εξειδίκευση:
 
-Computing Education, Computational Thinking, Video Games, Computer Programming
+Computing Education, Computational Thinking, Serious Games, Computer Programming
