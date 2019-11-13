@@ -1,3 +1,7 @@
-## Εξειδίκευση:
+## Στοιχεία Επικοινωνίας
 
-Η Πληροφορική στην Εκπαίδευση (Computing Education), Υπολογιστική Σκέψη (Computational Thinking), Σοβαρά Παιχνίδια (Serious Games), Προγραμματισμός Υπολογιστών (Computer Programming).
+* **Ονοματεπώνυμο:** Βαρβάρα Γαρνέλη
+* **Διεύθυνση:** Κέρκυρα
+* **Τηλέφωνο:** 6974025556
+* **E-mail:** bgarnelisch@gmail.com
+* **Github:** bgarnb

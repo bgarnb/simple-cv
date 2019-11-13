@@ -1,16 +1,24 @@
+## Δημοσιεύσεις
+* **Σε Διεθνή Περιοδικά:**
+* Garneli, V., Giannakos, M., & Chorianopoulos, K. (2017). "Serious games as a
+malleable learning medium: The effects of narrative, gameplay, and making on
+students’ performance and attitudes", _British Journal of Educational
+Technology_, 48(3), 842-859.
+* Garneli, V., & Chorianopoulos, K. (2018). "Programming video games and
+simulations in science education: exploring computational thinking through code
+analysis",  _Interactive Learning Environments_, 26(3), 386-401.
+* Garneli, V., & Chorianopoulos, K. (2019). "The effects of video game making
+within science content on student computational thinking skills and performance"
+_Interactive Technology and Smart Education_.
+* Garneli, V., Patiniotis, K., & Chorianopoulos, K. (2019). "Integrating Science
+Tasks and Puzzles in Computer Role Playing Games". _Multimodal Technologies and
+Interaction_, 3(3), 55.
+* **Σε Διεθνή Συνέδρια:**
+* Garneli, B., Giannakos, M. N., Chorianopoulos, K., & Jaccheri, L. (2013, September). "Learning by playing and learning by making". In _International
+Conference on Serious Games Development and Applications_ (pp. 76-85). Springer, Berlin, Heidelberg.
+* Garneli, V. (2014, July). "Instructional media and teaching methods for engaging  children with computer programming". In 2014 _IEEE 14th International Conference on Advanced Learning Technologies_ (pp. 768-770). IEEE.
+* Garneli, V., Giannakos, M. N., & Chorianopoulos, K. (2015, March). "Computing education in K-12 schools: A review of the literature". In 2015 _IEEE Global  Engineering Education Conference (EDUCON)_ (pp. 543-551). IEEE.
+* Garneli, V., Giannakos, M. N., Chorianopoulos, K., & Jaccheri, L. (2015, May). "Serious game development as a creative learning experience: lessons learnt". In 2015 _IEEE/ACM 4th International Workshop on Games and Software Engineering_ (pp. 36-42). IEEE.
+ * Vassilakis, N., Garneli, V., Patiniotis, K., Deliyannis, I., & Chorianopoulos, K. (2019, September). "Adapting a Classic Platform Video Game to the Carbohydrate Counting Method for Insulin-Dependent Diabetics. In Proceedings of the 5th _EAI International Conference on Smart Objects and Technologies for Social Good_ (pp. 149-154). ACM.
 
-## Επιστημονικό / Εφαρμοσμένο / Ερευνητικό Έργο (3/10/2017 - 13/11/2019)
-* **Διδακτική Εμπειρία**
-* Διδασκαλία του μαθήματος "Interaction Design" με έμφαση στη σχεδίαση και την κατασκευή εκπαιδευτικού λογισμικού στο πρόγραμμα Μεταπτυχιακών Σπουδών του Τμήματος Πληροφορικής του Ιονίου Πανεπιστημίου, αρ. σύμβασης 80249.14973/β5.ε, 23/11/2017 - 23/12/2017.
-* Διδασκαλία του μαθήματος “Κινητά και Κοινωνικά Μέσα”, αρ. σύμβασης 80291/15364/β5.ε, 1/3/2018 - 30/6/2018.
-* Διδασκαλία 3 εργαστηρίων στα πλαίσια του μαθήματος “Συνεργατικές Εφαρμογές” του ΠΜΣ του Τμήματος Πληροφορικής του Ιονίου Πανεπιστημίου με τίτλο “Ψηφιακές Εφαρμογές και Καινοτομία”, 2019
- * Επίβλεψη της πτυχιακής του προπτυχιακού φοιτητή Σωτίδη Χρήστου με θέμα τη σχεδίαση και ανάπτυξη ενός εκπαιδευτικού ψηφιακού παιχνιδιού στα μαθηματικά σε συνεργασία με τον καθηγητή Κωνσταντίνο Χωριανόπουλο.
-* Επίβλεψη της διπλωματικής του μεταπτυχιακού φοιτητή Βασιλάκη Νικόλαου με θέμα τη σχεδίαση και ανάπτυξη ενός σοβαρού ψηφιακού παιχνιδιού σχετικό με την εκπαίδευση ινσουλινοεξαρτώμενων διαβητικών ασθενών σε συνεργασία με τον καθηγητή Κωνσταντίνο Χωριανόπουλο.
-* Επίβλεψη των Erasmus φοιτητών του Κωνσταντίνου Χωριανόπουλου: Santiago Fereira και Salvador Meira στο μάθημα “Τεχνολογία Λογισμικού” του εαρινού εξαμήνου και του Salvador Meira  στο μάθημα της “Επικοινωνίας Ανθρώπου Υπολογιστή” του φθινοπωρινού εξαμήνου, 2018 - 2019.
-* **Άλλες Δραστηριότητες**
-* Οργάνωση Διήμερου Θερινού Σχολείου στις “Εκπαιδευτικές Τεχνολογίες” στις 29 και 30 Σεπτέμβρη 2018 στους χώρους του Τμήματος Πληροφορικής του Ιονίου Πανεπιστημίου, στην Κέρκυρα. [Εκπαιδευτικές Τεχνολογίες](https://bgarnb.github.io/Educational-Technologies/)
-* Διαδικτυακή εκπαίδευση στο Git και στο GitHub και επιτυχής ολοκλήρωση της διαδικασίας για τον ρόλο του GitHub Campus Advisor στο Ιόνιο Πανεπιστήμιο. [Github Map](https://education.github.com/teachers/advisors).
-* Παρουσίαση του άρθρου “ Adapting a Classic Platform Video Game to the Carbohydrate Counting Method for Insulin-Dependent Diabetics“ στο συνέδριο GOODTECHS 2019 στη Βαλένθια της Ισπανίας.
-* Παρουσίαση του άρθρου “Designing a 2D Platform Game with Mathematics Curriculum  “ στο συνέδριο GALA conf 2019 στην Αθήνα.
-* Υποβολή ερευνητικής πρότασης ΕΛΙΔΕΚ με τίτλο  “Representing History through Collaborative Digital Game Making: An Interdisciplinary Teaching Approach” στα πλαίσια της προκήρυξης με Α.Π. 500 / 15-12-2017  σε συνεργασία με τον διδακτορικό φοιτητή του Tμήματος Ιστορίας Στουραΐτη Ηλία, τον διδακτορικό φοιτητή του Tμήματος Πληροφορικής Πατηνιώτη Κωνσταντίνο και υπό την επίβλεψη των καθηγητών Κωνσταντίνου Χωριανόπουλου και Κωνσταντίνου Αγγελάκου του Ιονίου Πανεπιστημίου.
-* Υποβολή της ερευνητικής πρότασης 1313 με τίτλο “Σχεδίαση διαδικτυακού παιχνιδιού ρόλων για πολλούς παίκτες με περιεχόμενο απότον χώρο των φυσικών επιστημών” στην πρόσκληση με Α. Π. 3605/4-7-2019 του ΕΔΒΜ σε συνεργασία με τον διδακτορικό φοιτητή του Τμήματος Πληροφορικής Κων/νο Πατηνιώτη και υπό την επίβλεψη του καθηγητή Κωνσταντίνου Χωριανόπουλου. Στα αποτελέσματα που βγήκαν στις 24/6/2019,  η ερευνητική πρόταση κρίθηκε προκρινόμενη με τελικό βαθμό 87,32 και αναμένεται να ολοκληρωθεί η διαδικασία ένταξης.
+ [Google Scholar](https://scholar.google.gr/citations?user=P5t-LWkAAAAJ&hl=el)

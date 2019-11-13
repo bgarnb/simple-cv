@@ -3,12 +3,9 @@
 ############################
 #
 # Required value:
-name: Βαρβάρα Γαρνέλη # full name
+name: Βιογραφικό Σημείωμα # full name
 #
 # Optional values:
 # These can be commented out or deleted.
 display-name: Βαρβάρα Γαρνέλη # name to be displayed.
 date-of-birth: 1967-11-16 # in YYYY-MM-DD format
-telephone: 2663981966
-email: c13@garn.gr
-github: bgarnb
