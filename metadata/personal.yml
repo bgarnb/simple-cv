@@ -7,5 +7,4 @@ name: Βιογραφικό Σημείωμα # full name
 #
 # Optional values:
 # These can be commented out or deleted.
-display-name: Βαρβάρα Γαρνέλη # name to be displayed.
-date-of-birth: 1967-11-16 # in YYYY-MM-DD format
+display-name: Βιογραφικό Σημείωμα # name to be displayed.
