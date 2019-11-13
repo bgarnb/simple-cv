@@ -23,5 +23,5 @@ Springer, Berlin, Heidelberg.
 * Garneli, V., Giannakos, M. N., & Chorianopoulos, K. (2015, March). "Computing
 education in K-12 schools: A review of the literature". In 2015 _IEEE Global
  Engineering Education Conference (EDUCON)_ (pp. 543-551). IEEE.  
-* Garneli, V., Giannakos, M. N., Chorianopoulos, K., & Jaccheri, L. (2015, May). "Serious game development as a creative learning experience: lessons learnt". In 2015 _IEEE/ACM 4th International Workshop on Games and Software Engineering_ (pp. 36-42). IEEE.
+ * Garneli, V., Giannakos, M. N., Chorianopoulos, K., & Jaccheri, L. (2015, May). "Serious game development as a creative learning experience: lessons learnt". In 2015 _IEEE/ACM 4th International Workshop on Games and Software Engineering_ (pp. 36-42). IEEE.
 * Vassilakis, N., Garneli, V., Patiniotis, K., Deliyannis, I., & Chorianopoulos, K. (2019, September). "Adapting a Classic Platform Video Game to the Carbohydrate Counting Method for Insulin-Dependent Diabetics. In Proceedings of the 5th _EAI International Conference on Smart Objects and Technologies for Social Good_ (pp. 149-154). ACM.
