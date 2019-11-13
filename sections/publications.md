@@ -21,7 +21,7 @@ Springer, Berlin, Heidelberg.
 * Garneli, V. (2014, July). "Instructional media and teaching methods for engaging
  children with computer programming". In 2014 _IEEE 14th International
  Conference on Advanced Learning Technologies_ (pp. 768-770). IEEE.
-Garneli, V., Giannakos, M. N., & Chorianopoulos, K. (2015, March). "Computing
+* Garneli, V., Giannakos, M. N., & Chorianopoulos, K. (2015, March). "Computing
 education in K-12 schools: A review of the literature". In 2015 _IEEE Global
  Engineering Education Conference (EDUCON)_ (pp. 543-551). IEEE.  
 * Garneli, V., Giannakos, M. N., Chorianopoulos, K., & Jaccheri, L. (2015, May).
