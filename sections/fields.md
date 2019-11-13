@@ -1,3 +1,3 @@
-## Fields of Specialization
+## Εξειδίκευση:
 
 Computing Education, Computational Thinking, Video Games, Computer Programming
