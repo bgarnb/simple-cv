@@ -1,6 +1,6 @@
 ## Εκπαίδευση
 
-* **Διδακτορικό, Ιόνιο Πανεπιστήμιο, Τμήμα Πληροφορικής**, 2017
+* **Διδακτορικό , Ιόνιο Πανεπιστήμιο, Τμήμα Πληροφορικής**, 2017
   * Video-game making approach in science education: exploring computational
   thinking skills development and student motivation
 * **Μεταπτυχιακό Δίπλωμα στην Πληροφορική και τις Ανθρωπιστικές Σπουδές, Ιόνιο
