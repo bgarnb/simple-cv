@@ -1,10 +1,11 @@
-## Εκπαίδευση
+## Education
 
-* **Διδακτορικό , Ιόνιο Πανεπιστήμιο, Τμήμα Πληροφορικής**, 2017
+* **PhD, Ionian University, Department of Informatics**, 2017
   * Video-game making approach in science education: exploring computational
   thinking skills development and student motivation
-* **Μεταπτυχιακό Δίπλωμα στην Πληροφορική και τις Ανθρωπιστικές Σπουδές, Ιόνιο
-Πανεπιστήμιο, Τμήμα Πληροφορικής**, 2013
-* **Πτυχίο Παιδαγωγικών Σπουδών, ΣΕΛΕΤΕ, Τμήμα Πτυχιούχων ΑΕΙ**, 1993
-* **Πτυχίο Πληροφορικής, Οικονομικό Πανεπιστήμιο Αθήνας, Τμήμα Πληροφορικής**,
-1992
+* **Master Degree, Ionian University, Department of Informatics**, 2013
+   * Informatics
+* **BsC, School of Pedagogical and Technological Education, Postgraduate Studies**, 1993
+   * Education Sciences
+* **BsC, Athens University of Economics and Business, Department of Informaticsς**, 1992
+    * Informatics

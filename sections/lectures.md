@@ -1,12 +1,7 @@
-## Επιστημονικό / Εφαρμοσμένο / Ερευνητικό Έργο (3/10/2017 - 13/11/2019)
-* **Διδακτική Εμπειρία**
-* Διδασκαλία του μαθήματος "Interaction Design" με έμφαση στη σχεδίαση και την κατασκευή εκπαιδευτικού λογισμικού στο πρόγραμμα Μεταπτυχιακών Σπουδών του Τμήματος Πληροφορικής του Ιονίου Πανεπιστημίου, αρ. σύμβασης 80249.14973/β5.ε, 23/11/2017 - 23/12/2017.
-* Διδασκαλία του μαθήματος “Κινητά και Κοινωνικά Μέσα”, αρ. σύμβασης 80291/15364/β5.ε, 1/3/2018 - 30/6/2018.
-
-* **Άλλες Δραστηριότητες**
-* Οργάνωση Διήμερου Θερινού Σχολείου στις “Εκπαιδευτικές Τεχνολογίες” στις 29 και 30 Σεπτέμβρη 2018 στους χώρους του Τμήματος Πληροφορικής του Ιονίου Πανεπιστημίου, στην Κέρκυρα.
-* Διαδικτυακή εκπαίδευση στο Git και στο GitHub και επιτυχής ολοκλήρωση της διαδικασίας για τον ρόλο του GitHub Campus Advisor στο Ιόνιο Πανεπιστήμιου (https://education.github.com/teachers/advisors).
-* Παρουσίαση του άρθρου “ Adapting a Classic Platform Video Game to the Carbohydrate Counting Method for Insulin-Dependent Diabetics“ στο συνέδριο GOODTECHS 2019 στη Βαλένθια της Ισπανίας.
-* Παρουσίαση του άρθρου “Designing a 2D Platform Game with Mathematics Curriculum  “ στο συνέδριο GALA conf 2019 στην Αθήνα.
-* Υποβολή ερευνητικής πρότασης ΕΛΙΔΕΚ με τίτλο  “Representing History through Collaborative Digital Game Making: An Interdisciplinary Teaching Approach” στα πλαίσια της προκήρυξης με Α.Π. 500 / 15-12-2017  σε συνεργασία με τον διδακτορικό φοιτητή του Tμήματος Ιστορίας Στουραΐτη Ηλία, τον διδακτορικό φοιτητή του Tμήματος Πληροφορικής Πατηνιώτη Κωνσταντίνο και υπό την επίβλεψη του Κωνσταντίνου Χωριανόπουλου και του Κωνσταντίνου Αγγελάκου, καθηγητών του Ιονίου Πανεπιστημίου.
-* Υποβολή της ερευνητικής πρότασης 1313 με τίτλο “Σχεδίαση διαδικτυακού παιχνιδιού ρόλων για πολλούς παίκτες με περιεχόμενο απότον χώρο των φυσικών επιστημών” στην πρόσκληση με Α. Π. 3605/4-7-2019 του ΕΔΒΜ σε συνεργασία με τον διδακτορικό φοιτητή του Τμήματος Πληροφορικής Κων/νο Πατηνιώτη και υπό την επίβλεψη του καθηγητή Κωνσταντίνου Χωριανόπουλου. Στα αποτελέσματα που βγήκαν στις 24/6/2019,  η ερευνητική πρόταση κρίθηκε προκρινόμενη με τελικό βαθμό 87,32 και έχει ολοκληρωθεί η διαδικασία ένταξης.
+## Research and Teaching Experience
+* **Teaching Experience**
+* "Interaction Design", Postgraduate studies, Department of Informatics, Ionian University, 23/11/2017 - 23/12/2017.
+* "Mobile and Social Media”, Undergraduate studies, Department of Informatics, Ionian University, 1/3/2018 - 30/6/2018.
+* "2-day Summer School Organization" (Educational Technologies), September 2018, Department of Informatics, Ionian University.
+**Research experience**
+* Post Doc Research, "Design of a multiplayer Role Playing Game with physical sciences content" Department of Informatics, Ionian University

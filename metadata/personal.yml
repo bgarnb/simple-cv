@@ -3,8 +3,8 @@
 ############################
 #
 # Required value:
-name: Βιογραφικό Σημείωμα # full name
+name: CV # full name
 #
 # Optional values:
 # These can be commented out or deleted.
-display-name: Βιογραφικό Σημείωμα # name to be displayed.
+display-name: CV # name to be displayed.

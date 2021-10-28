@@ -1,6 +1,6 @@
-## Στοιχεία Επικοινωνίας
-* **Ονοματεπώνυμο:** Βαρβάρα Γαρνέλη
-* **Διεύθυνση:** Κέρκυρα
-* **Τηλέφωνο:** 6974025556
-* **E-mail:** bgarnelisch@gmail.com
+## Contact Information
+* **Name:** Varvara Garneli
+* **Address:** Corfu, Greece
+* **Τηλέφωνο:** +30 6974025556
+* **E-mail:** vgarneli@ionio.gr
 * **Github:** bgarnb
