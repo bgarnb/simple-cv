@@ -105,10 +105,10 @@ display-style: line # The style for the top of the page. This can be any memoir 
 ############################
 #
 # Required value:
-name: Βιογραφικό Σημείωμα # full name
+name: CV # full name
 #
 # Optional values:
 # These can be commented out or deleted.
-display-name: Βιογραφικό Σημείωμα # name to be displayed.
-date: 2020-04-09
+display-name: CV # name to be displayed.
+date: 2021-10-29
 ---
