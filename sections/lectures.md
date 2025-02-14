@@ -8,5 +8,6 @@
 * "Designing Interfaces", Department of Audio and Visual Arts, Ionian University, September 2021 - today
 * "Multimedia and Gamification", Department of Audio and Visual Arts, Ionian University, September 2021 - today
 * "Design & Development of Video Games", Department of Audio and Visual Arts, Ionian University, September 2021 - today
-**Research experience**
+* 
+* **Research experience**
 * Post Doc Research, "Design of a multiplayer Role Playing Game with physical sciences content" Department of Informatics, Ionian University
