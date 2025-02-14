@@ -1,7 +1,9 @@
 ## Skills:
-* **Digital Games Design**
+* **Games Design**
+* **Game Programming**
 * **Collaborative Games**
-* **Serious Games** (Content Integration)
+* **Gamification**
+* **Serious Games** 
 * **Computing Education**
 * **Computational Thinking**
 * **Computer Programming**
